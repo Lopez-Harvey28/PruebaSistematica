@@ -1,0 +1,14 @@
+C:\Users\hjlr2\source\repos\PruebaSistematica\PruebaSistematica\bin\Debug\net8.0\PruebaSistematica.exe
+C:\Users\hjlr2\source\repos\PruebaSistematica\PruebaSistematica\bin\Debug\net8.0\PruebaSistematica.deps.json
+C:\Users\hjlr2\source\repos\PruebaSistematica\PruebaSistematica\bin\Debug\net8.0\PruebaSistematica.runtimeconfig.json
+C:\Users\hjlr2\source\repos\PruebaSistematica\PruebaSistematica\bin\Debug\net8.0\PruebaSistematica.dll
+C:\Users\hjlr2\source\repos\PruebaSistematica\PruebaSistematica\bin\Debug\net8.0\PruebaSistematica.pdb
+C:\Users\hjlr2\source\repos\PruebaSistematica\PruebaSistematica\obj\Debug\net8.0\PruebaSistematica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hjlr2\source\repos\PruebaSistematica\PruebaSistematica\obj\Debug\net8.0\PruebaSistematica.AssemblyInfoInputs.cache
+C:\Users\hjlr2\source\repos\PruebaSistematica\PruebaSistematica\obj\Debug\net8.0\PruebaSistematica.AssemblyInfo.cs
+C:\Users\hjlr2\source\repos\PruebaSistematica\PruebaSistematica\obj\Debug\net8.0\PruebaSistematica.csproj.CoreCompileInputs.cache
+C:\Users\hjlr2\source\repos\PruebaSistematica\PruebaSistematica\obj\Debug\net8.0\PruebaSistematica.dll
+C:\Users\hjlr2\source\repos\PruebaSistematica\PruebaSistematica\obj\Debug\net8.0\refint\PruebaSistematica.dll
+C:\Users\hjlr2\source\repos\PruebaSistematica\PruebaSistematica\obj\Debug\net8.0\PruebaSistematica.pdb
+C:\Users\hjlr2\source\repos\PruebaSistematica\PruebaSistematica\obj\Debug\net8.0\PruebaSistematica.genruntimeconfig.cache
+C:\Users\hjlr2\source\repos\PruebaSistematica\PruebaSistematica\obj\Debug\net8.0\ref\PruebaSistematica.dll
